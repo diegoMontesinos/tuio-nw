@@ -1,19 +1,19 @@
 {
-  "name": "tuio-nwjs",
+  "name": "tuio-nw",
   "description": "A JavaScript implementation of the TUIO protocol for multitouch and tangible interaction for NodeWebkit (nwjs).",
-  "version": "1.0.0",
-  "homepage": "http://github.com/diegoMontesinos/tuio-nwjs",
+  "version": "1.0.1",
+  "homepage": "http://github.com/diegoMontesinos/tuio-nw",
   "author": {
     "name": "Diego Montesinos",
     "email": "chesp.gommont@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "git+http://github.com/diegoMontesinos/tuio-nwjs.git"
+    "url": "git+http://github.com/diegoMontesinos/tuio-nw.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "http://github.com/diegoMontesinos/tuio-nwjs/issues"
+    "url": "http://github.com/diegoMontesinos/tuio-nw/issues"
   },
   "devDependencies": {
     "chai": "^3.3.0",
