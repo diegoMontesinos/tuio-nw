@@ -5,14 +5,14 @@
     "mocha": true
   },
   "globals": {
-    "Tuio": true,
-    "_": true
+    "window": true,
+    "document": true
   },
   "rules": {
     "array-bracket-spacing": [ 2, "never" ],
     "brace-style": [ 2, "1tbs" ],
     "consistent-return": 0,
-    "indent": [ 2, 2 ],
+    "indent": [2, 2, {"SwitchCase": 1}],
     "no-multiple-empty-lines": [ 2, {
       "max": 2
     }],
