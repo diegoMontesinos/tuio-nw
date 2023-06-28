@@ -31,7 +31,6 @@
     "lodash": "^3.10.1"
   },
   "scripts": {
-    "prepublish": "gulp prepublish",
     "test": "gulp"
   },
   "keywords": [
